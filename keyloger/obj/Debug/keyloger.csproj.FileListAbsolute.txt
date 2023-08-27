@@ -1,0 +1,20 @@
+C:\Users\Кирилл\OneDrive\Рабочий стол\simple-keylogger-master\keyloger\bin\Debug\keyloger.exe.config
+C:\Users\Кирилл\OneDrive\Рабочий стол\simple-keylogger-master\keyloger\bin\Debug\keyloger.exe
+C:\Users\Кирилл\OneDrive\Рабочий стол\simple-keylogger-master\keyloger\bin\Debug\keyloger.pdb
+C:\Users\Кирилл\OneDrive\Рабочий стол\simple-keylogger-master\keyloger\obj\Debug\keyloger.csproj.AssemblyReference.cache
+C:\Users\Кирилл\OneDrive\Рабочий стол\simple-keylogger-master\keyloger\obj\Debug\keyloger.csproj.SuggestedBindingRedirects.cache
+C:\Users\Кирилл\OneDrive\Рабочий стол\simple-keylogger-master\keyloger\obj\Debug\keyloger.Properties.Resources.resources
+C:\Users\Кирилл\OneDrive\Рабочий стол\simple-keylogger-master\keyloger\obj\Debug\keyloger.csproj.GenerateResource.cache
+C:\Users\Кирилл\OneDrive\Рабочий стол\simple-keylogger-master\keyloger\obj\Debug\keyloger.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\OneDrive\Рабочий стол\simple-keylogger-master\keyloger\obj\Debug\keyloger.exe
+C:\Users\Кирилл\OneDrive\Рабочий стол\simple-keylogger-master\keyloger\obj\Debug\keyloger.pdb
+C:\Users\Кирилл\OneDrive\Документы\Защита информации в операционных системах\лаб4\keyloger\keyloger\bin\Debug\keyloger.exe.config
+C:\Users\Кирилл\OneDrive\Документы\Защита информации в операционных системах\лаб4\keyloger\keyloger\bin\Debug\keyloger.exe
+C:\Users\Кирилл\OneDrive\Документы\Защита информации в операционных системах\лаб4\keyloger\keyloger\bin\Debug\keyloger.pdb
+C:\Users\Кирилл\OneDrive\Документы\Защита информации в операционных системах\лаб4\keyloger\keyloger\obj\Debug\keyloger.csproj.AssemblyReference.cache
+C:\Users\Кирилл\OneDrive\Документы\Защита информации в операционных системах\лаб4\keyloger\keyloger\obj\Debug\keyloger.csproj.SuggestedBindingRedirects.cache
+C:\Users\Кирилл\OneDrive\Документы\Защита информации в операционных системах\лаб4\keyloger\keyloger\obj\Debug\keyloger.Properties.Resources.resources
+C:\Users\Кирилл\OneDrive\Документы\Защита информации в операционных системах\лаб4\keyloger\keyloger\obj\Debug\keyloger.csproj.GenerateResource.cache
+C:\Users\Кирилл\OneDrive\Документы\Защита информации в операционных системах\лаб4\keyloger\keyloger\obj\Debug\keyloger.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\OneDrive\Документы\Защита информации в операционных системах\лаб4\keyloger\keyloger\obj\Debug\keyloger.exe
+C:\Users\Кирилл\OneDrive\Документы\Защита информации в операционных системах\лаб4\keyloger\keyloger\obj\Debug\keyloger.pdb
